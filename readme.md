@@ -67,14 +67,17 @@
 - Abra o eclipse-EE e execute o Arquivo Main
 
 
-<br>
-
 ## 🍥 Layout 
 
-- Terminal
+- #### `CEP`
+
+    <img alt="License" src="./img/DemoCep.png">
+
+- #### `Endereço`
+
+    <img alt="License" src="./img/DemoEnd.png">
 
 <br>
-
 
 ## 📙 Licença
 
